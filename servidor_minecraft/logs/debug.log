@@ -7176,3 +7176,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [29May2025 03:17:29.813] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 3692 610 610 VisualFallingBlockEntity['Falling Deepslate'/73880, l='ServerLevel[world]', x=3692.50, y=-30.00, z=610.50]
 [29May2025 03:17:32.155] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:deepslate}[axis=y] 3694 618 618 VisualFallingBlockEntity['Falling Deepslate'/73904, l='ServerLevel[world]', x=3694.50, y=-33.00, z=618.50]
 [29May2025 03:17:41.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Ancient Civilization]
+[29May2025 03:18:48.551] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[29May2025 03:19:08.439] [Worker-Main-54/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[29May2025 03:19:46.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 03:19:46.622] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 03:21:29.256] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: AppendLootModifier.doApply irons_spellbooks:chests/additional_ancient_city_loot
+[29May2025 03:21:46.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to ZhynoDamned]
+[29May2025 03:21:47.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Ancient Civilization]
+[29May2025 03:22:25.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported Invel666 to ZhynoDamned]
+[29May2025 03:22:26.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Ancient Civilization]
+[29May2025 03:24:46.596] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 03:24:46.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 03:24:46.686] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3159ms or 63 ticks
+[29May2025 03:27:26.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was obliterated by a sonically-charged shriek
+[29May2025 03:27:58.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mererio48 moved too quickly! -352.9232414940884,136.5,-529.9343303345431

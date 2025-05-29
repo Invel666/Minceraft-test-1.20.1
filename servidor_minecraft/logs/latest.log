@@ -953,3 +953,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [29May2025 03:12:04.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has completed the challenge [Premium!]
 [29May2025 03:12:35.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has completed the challenge [Premium!]
 [29May2025 03:17:41.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Ancient Civilization]
+[29May2025 03:21:46.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to ZhynoDamned]
+[29May2025 03:21:47.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Ancient Civilization]
+[29May2025 03:22:25.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported Invel666 to ZhynoDamned]
+[29May2025 03:22:26.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Ancient Civilization]
+[29May2025 03:24:46.686] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3159ms or 63 ticks
+[29May2025 03:27:26.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was obliterated by a sonically-charged shriek
+[29May2025 03:27:58.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mererio48 moved too quickly! -352.9232414940884,136.5,-529.9343303345431
