@@ -8177,6 +8177,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-05-29 03:12:35 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/staff_root": {
     "criteria": {
       "requirement": "2025-05-29 01:53:44 +0000"

@@ -931,3 +931,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [29May2025 02:57:14.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 was slain by Warden
 [29May2025 02:57:19.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported mererio48 to ZhynoDamned]
 [29May2025 02:57:28.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was obliterated by a sonically-charged shriek
+[29May2025 02:59:40.893] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned lost connection: Timed out
+[29May2025 02:59:40.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned left the game
+[29May2025 03:00:22.422] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZhynoDamned[/127.185.168.15:37279] logged in with entity id 66593 at (3551.533674324649, -19.0, 345.5639112101109)
+[29May2025 03:00:22.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned joined the game
+[29May2025 03:00:52.495] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned lost connection: Timed out
+[29May2025 03:00:52.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned left the game
+[29May2025 03:02:41.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported Invel666 to mererio48]
+[29May2025 03:02:47.065] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZhynoDamned[/127.185.168.15:48855] logged in with entity id 67138 at (3551.533674324649, -19.0, 345.5639112101109)
+[29May2025 03:02:47.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned joined the game
+[29May2025 03:02:58.524] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mererio48 moved too quickly! -195.60241215185306,135.0,-322.58554809957474
+[29May2025 03:03:24.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to Invel666]
+[29May2025 03:03:27.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[29May2025 03:05:37.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to ZhynoDamned]
+[29May2025 03:06:36.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was obliterated by a sonically-charged shriek
+[29May2025 03:06:38.487] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3233ms or 64 ticks
+[29May2025 03:06:47.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to ZhynoDamned]
+[29May2025 03:07:41.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was slain by Warden
+[29May2025 03:10:52.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to ZhynoDamned]
+[29May2025 03:11:19.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Gave 90 experience levels to Invel666]
+[29May2025 03:12:04.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has completed the challenge [Premium!]
+[29May2025 03:12:35.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has completed the challenge [Premium!]
+[29May2025 03:17:41.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Ancient Civilization]
