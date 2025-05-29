@@ -973,3 +973,32 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [29May2025 03:37:07.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to ZhynoDamned]
 [29May2025 03:37:16.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to mererio48]
 [29May2025 03:37:36.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to Invel666]
+[29May2025 03:39:16.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of ZhynoDamned) moved wrongly! 0.2525486186937087
+[29May2025 03:39:16.151] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of ZhynoDamned) moved wrongly! 0.842553349993068
+[29May2025 03:39:16.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of ZhynoDamned) moved wrongly! 1.3763874127380404
+[29May2025 03:39:19.464] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of ZhynoDamned) moved wrongly! 0.4537149548043118
+[29May2025 03:39:19.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of ZhynoDamned) moved wrongly! 0.875
+[29May2025 03:39:19.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of ZhynoDamned) moved wrongly! 1.1199659286210917
+[29May2025 03:39:20.865] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of ZhynoDamned) moved wrongly! 0.3658966820761407
+[29May2025 03:39:20.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of ZhynoDamned) moved wrongly! 0.27377414454077353
+[29May2025 03:39:44.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of ZhynoDamned) moved wrongly! 0.280134232509603
+[29May2025 03:39:44.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of ZhynoDamned) moved wrongly! 1.0725915935493973
+[29May2025 03:39:44.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of ZhynoDamned) moved wrongly! 1.8637332297220937
+[29May2025 03:39:44.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of ZhynoDamned) moved wrongly! 2.649487983567923
+[29May2025 03:40:11.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of ZhynoDamned) moved wrongly! 0.47349310241725107
+[29May2025 03:40:11.658] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of ZhynoDamned) moved wrongly! 1.1245903805495614
+[29May2025 03:40:11.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of ZhynoDamned) moved wrongly! 1.8975727175435066
+[29May2025 03:40:12.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of ZhynoDamned) moved wrongly! 0.5412197951213784
+[29May2025 03:40:13.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of ZhynoDamned) moved wrongly! 1.0952620954344638
+[29May2025 03:40:13.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of ZhynoDamned) moved wrongly! 1.655746228573662
+[29May2025 03:40:13.106] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of ZhynoDamned) moved wrongly! 2.21967725802142
+[29May2025 03:40:17.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of ZhynoDamned) moved wrongly! 0.3736477601429442
+[29May2025 03:40:17.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of ZhynoDamned) moved wrongly! 1.1812528586161477
+[29May2025 03:40:17.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of ZhynoDamned) moved wrongly! 1.988846237746742
+[29May2025 03:40:17.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of ZhynoDamned) moved wrongly! 2.7963624322793237
+[29May2025 03:40:20.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of ZhynoDamned) moved wrongly! 0.5773346871242211
+[29May2025 03:40:20.505] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of ZhynoDamned) moved wrongly! 1.3852811300190808
+[29May2025 03:40:20.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of ZhynoDamned) moved wrongly! 2.193227532501595
+[29May2025 03:40:20.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of ZhynoDamned) moved wrongly! 3.0011739133602617
+[29May2025 03:40:20.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of ZhynoDamned) moved wrongly! 3.8091202826484363
+[29May2025 03:45:12.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Lorem Ipsum]
