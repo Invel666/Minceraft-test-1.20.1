@@ -7811,6 +7811,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-05-29 02:41:51 +0000"
+    },
+    "done": true
+  },
   "vinery:main/grape_picker": {
     "criteria": {
       "vinery:savanna_grapes_white": "2025-05-29 01:10:06 +0000",
@@ -7818,12 +7824,30 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-29 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
+    "criteria": {
+      "has_ward_armor_trim_smithing_template": "2025-05-29 02:36:48 +0000"
+    },
+    "done": true
+  },
   "vinery:main/vineyard_visionary": {
     "criteria": {
       "vinery:savanna_grapes_white": "2025-05-29 01:10:06 +0000",
       "vinery:white_grape": "2025-05-29 01:10:06 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/music_disc_5": {
+    "criteria": {
+      "has_disc_fragment_5": "2025-05-29 02:33:26 +0000"
+    },
+    "done": true
   },
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
