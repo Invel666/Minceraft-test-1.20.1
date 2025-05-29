@@ -7834,6 +7834,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/defeat_gum_worm": {
+    "criteria": {
+      "killed": "2025-05-29 04:14:50 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_caniac": {
     "criteria": {
       "killed": "2025-05-29 04:03:45 +0000"
@@ -7877,6 +7883,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/licowitch_tower": {
+    "criteria": {
+      "licowitch_tower": "2025-05-29 04:23:26 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/make_wayward_compass": {
     "criteria": {
       "inscription_table": "2025-05-29 03:53:17 +0000"
@@ -7886,6 +7898,12 @@
   "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-05-29 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/caramel_apple": {
+    "criteria": {
+      "mussel": "2025-05-29 04:20:24 +0000"
     },
     "done": true
   },
@@ -7913,9 +7931,39 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/oven": {
+    "criteria": {
+      "has_oven": "2025-05-29 04:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-05-29 04:38:43 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cake_stand": {
+    "criteria": {
+      "has_brick": "2025-05-29 04:26:12 +0000"
+    },
+    "done": true
+  },
   "aquamirae:adventure/find_ice_maze": {
     "criteria": {
       "deep_frozen_ocean": "2025-05-29 03:56:30 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-05-29 04:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-05-29 04:26:12 +0000"
     },
     "done": true
   },
@@ -7938,9 +7986,21 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/shot_gum": {
+    "criteria": {
+      "shot_gum": "2025-05-29 04:16:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2025-05-29 03:36:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-05-29 04:26:12 +0000"
     },
     "done": true
   },
@@ -7956,9 +8016,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-05-29 04:26:12 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
     "criteria": {
       "anger_wizard": "2025-05-29 04:00:01 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/baking_station": {
+    "criteria": {
+      "has_brick": "2025-05-29 04:26:12 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/sack_of_sating": {
+    "criteria": {
+      "mussel": "2025-05-29 04:26:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-05-29 04:38:43 +0000"
     },
     "done": true
   },
@@ -7971,6 +8055,12 @@
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2025-05-29 01:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-05-29 04:26:12 +0000"
     },
     "done": true
   },

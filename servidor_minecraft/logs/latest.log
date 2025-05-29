@@ -1092,3 +1092,59 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [29May2025 04:16:41.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has reached the goal [And I'm All Out of Gum]
 [29May2025 04:18:14.832] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3001ms or 60 ticks
 [29May2025 04:19:38.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [The Secret Ingredient]
+[29May2025 04:19:53.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [The Dark (Chocolate) Tower]
+[29May2025 04:20:24.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [A Day at the Fair]
+[29May2025 04:20:50.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Biome Reactors]
+[29May2025 04:22:30.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Caniac No More]
+[29May2025 04:23:07.609] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3105ms or 62 ticks
+[29May2025 04:23:26.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [The Dark (Chocolate) Tower]
+[29May2025 04:26:41.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has reached the goal [Freaky Item]
+[29May2025 04:27:17.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [The Secret Ingredient]
+[29May2025 04:28:20.349] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: graveyard:large_walled_graveyard/small_crypt_pool
+[29May2025 04:28:20.354] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: graveyard:large_walled_graveyard/small_crypt_pool
+[29May2025 04:28:35.263] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3063ms or 61 ticks
+[29May2025 04:28:37.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Tis the Season]
+[29May2025 04:29:20.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Unwrapped Candy]
+[29May2025 04:29:39.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5659, y=-18, z=-2629} BlockPos{x=5662, y=-18, z=-2627}
+[29May2025 04:29:41.360] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5661, y=-18, z=-2626} BlockPos{x=5659, y=-16, z=-2624}
+[29May2025 04:30:17.066] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3027ms or 60 ticks
+[29May2025 04:30:59.782] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5675, y=-20, z=-2616} BlockPos{x=5673, y=-19, z=-2616}
+[29May2025 04:31:17.652] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5667, y=-20, z=-2613} BlockPos{x=5666, y=-22, z=-2613}
+[29May2025 04:31:17.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5667, y=-20, z=-2613} BlockPos{x=5666, y=-22, z=-2613}
+[29May2025 04:31:17.790] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5667, y=-20, z=-2613} BlockPos{x=5666, y=-22, z=-2613}
+[29May2025 04:31:17.792] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5667, y=-20, z=-2613} BlockPos{x=5666, y=-22, z=-2613}
+[29May2025 04:31:17.843] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5667, y=-20, z=-2613} BlockPos{x=5666, y=-22, z=-2613}
+[29May2025 04:31:17.930] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5667, y=-20, z=-2613} BlockPos{x=5666, y=-22, z=-2613}
+[29May2025 04:31:17.931] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5667, y=-20, z=-2613} BlockPos{x=5666, y=-22, z=-2613}
+[29May2025 04:31:17.982] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5667, y=-20, z=-2613} BlockPos{x=5666, y=-22, z=-2613}
+[29May2025 04:31:18.029] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5667, y=-20, z=-2613} BlockPos{x=5666, y=-22, z=-2613}
+[29May2025 04:31:18.075] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5667, y=-20, z=-2613} BlockPos{x=5666, y=-22, z=-2613}
+[29May2025 04:31:18.124] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5667, y=-20, z=-2613} BlockPos{x=5666, y=-22, z=-2613}
+[29May2025 04:31:18.180] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5667, y=-20, z=-2613} BlockPos{x=5666, y=-22, z=-2613}
+[29May2025 04:31:18.225] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5667, y=-20, z=-2613} BlockPos{x=5666, y=-22, z=-2613}
+[29May2025 04:31:18.280] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5667, y=-20, z=-2613} BlockPos{x=5666, y=-22, z=-2613}
+[29May2025 04:31:18.330] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5667, y=-20, z=-2613} BlockPos{x=5666, y=-22, z=-2613}
+[29May2025 04:31:18.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5667, y=-20, z=-2613} BlockPos{x=5666, y=-22, z=-2613}
+[29May2025 04:31:18.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5667, y=-20, z=-2613} BlockPos{x=5666, y=-22, z=-2613}
+[29May2025 04:31:18.534] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=5667, y=-20, z=-2613} BlockPos{x=5666, y=-22, z=-2613}
+[29May2025 04:32:30.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[29May2025 04:32:31.854] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3130ms or 62 ticks
+[29May2025 04:32:36.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to ZhynoDamned]
+[29May2025 04:32:39.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to ZhynoDamned]
+[29May2025 04:33:28.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to mererio48]
+[29May2025 04:36:02.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 discovered intentional game design
+[29May2025 04:36:02.463] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/115599, l='ServerLevel[world]', x=3387.81, y=109.33, z=69.26] died, message: 'Golem Healer discovered intentional game design'
+[29May2025 04:36:02.463] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/115599, l='ServerLevel[world]', x=3387.81, y=109.33, z=69.26] died: Golem Healer discovered intentional game design
+[29May2025 04:36:08.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to mererio48]
+[29May2025 04:36:56.450] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned lost connection: Disconnected
+[29May2025 04:36:56.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned left the game
+[29May2025 04:37:57.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Gave 1 [Steadfast Spikes] to Invel666]
+[29May2025 04:38:19.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Gave 1 [Eternal Steak] to Invel666]
+[29May2025 04:38:47.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3489, y=107, z=51} BlockPos{x=3488, y=106, z=50}
+[29May2025 04:38:47.953] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3489, y=107, z=51} BlockPos{x=3488, y=106, z=50}
+[29May2025 04:38:47.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3489, y=107, z=51} BlockPos{x=3488, y=106, z=50}
+[29May2025 04:38:48.062] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3489, y=107, z=51} BlockPos{x=3488, y=106, z=50}
+[29May2025 04:38:48.101] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3489, y=107, z=51} BlockPos{x=3488, y=106, z=50}
+[29May2025 04:38:48.152] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3489, y=107, z=51} BlockPos{x=3488, y=106, z=50}
+[29May2025 04:38:48.201] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3489, y=107, z=51} BlockPos{x=3488, y=106, z=50}
+[29May2025 04:38:53.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to mererio48]
