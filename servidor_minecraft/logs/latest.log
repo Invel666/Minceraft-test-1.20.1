@@ -1002,3 +1002,28 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [29May2025 03:40:20.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of ZhynoDamned) moved wrongly! 3.0011739133602617
 [29May2025 03:40:20.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Spectral Steed (vehicle of ZhynoDamned) moved wrongly! 3.8091202826484363
 [29May2025 03:45:12.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Lorem Ipsum]
+[29May2025 03:51:38.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [The Journey Begins]
+[29May2025 03:51:42.447] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:candy_cavity at 5998 -56 -2688 in 1s
+[29May2025 03:51:42.451] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3389ms or 67 ticks
+[29May2025 03:51:55.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [The Journey Begins]
+[29May2025 03:53:17.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has reached the goal [And so a Quest Begins!]
+[29May2025 03:54:37.231] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned lost connection: Timed out
+[29May2025 03:54:37.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned left the game
+[29May2025 03:54:38.091] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3054ms or 61 ticks
+[29May2025 03:55:11.317] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 03:55:11.327] [Worker-Main-10/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 03:55:28.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Dripstone Everywhere]
+[29May2025 03:55:50.112] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZhynoDamned[/127.185.168.15:51703] logged in with entity id 88784 at (3369.5083282651954, 112.0, 56.94874090732165)
+[29May2025 03:55:50.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned joined the game
+[29May2025 03:55:50.194] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3090ms or 61 ticks
+[29May2025 03:56:30.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Ice Maze]
+[29May2025 03:56:52.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Sunken City]
+[29May2025 03:57:04.789] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3068ms or 61 ticks
+[29May2025 03:57:50.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Lorem Ipsum]
+[29May2025 03:58:13.945] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3521ms or 70 ticks
+[29May2025 03:58:15.490] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2861ms or 57 ticks behind
+[29May2025 03:58:15.554] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Invel666 moved too quickly! 14.104188180228448,-1.7838273489770131,-10.20256923719353
+[29May2025 03:58:58.233] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3039ms or 60 ticks
+[29May2025 03:59:01.676] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 03:59:01.676] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 03:59:01.677] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
