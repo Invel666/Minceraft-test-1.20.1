@@ -160,6 +160,7 @@
       "minecraft:wooded_badlands": "2025-05-25 20:34:39 +0000",
       "minecraft:badlands": "2025-05-25 23:26:20 +0000",
       "minecraft:savanna_plateau": "2025-05-25 23:28:03 +0000",
+      "minecraft:beach": "2025-05-29 06:00:55 +0000",
       "minecraft:stony_peaks": "2025-05-25 23:27:25 +0000",
       "minecraft:dark_forest": "2025-05-29 05:10:09 +0000",
       "minecraft:sparse_jungle": "2025-05-26 01:41:24 +0000",
@@ -168,6 +169,7 @@
       "minecraft:stony_shore": "2025-05-25 21:58:38 +0000",
       "minecraft:snowy_plains": "2025-05-25 23:58:03 +0000",
       "minecraft:dripstone_caves": "2025-05-27 22:17:30 +0000",
+      "minecraft:snowy_taiga": "2025-05-29 06:02:40 +0000",
       "minecraft:grove": "2025-05-29 05:10:07 +0000",
       "minecraft:cold_ocean": "2025-05-29 03:56:12 +0000",
       "minecraft:forest": "2025-05-26 02:50:59 +0000",
@@ -3595,6 +3597,7 @@
       "minecraft:stray": "2025-05-26 02:13:35 +0000",
       "minecraft:enderman": "2025-05-27 04:32:58 +0000",
       "minecraft:silverfish": "2025-05-27 04:17:31 +0000",
+      "minecraft:endermite": "2025-05-29 06:10:49 +0000",
       "minecraft:zombie": "2025-05-25 21:21:50 +0000",
       "minecraft:zombie_villager": "2025-05-29 00:58:05 +0000"
     },
@@ -7859,6 +7862,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood": {
+    "criteria": {
+      "has_kitchen_hood": "2025-05-29 06:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-05-29 05:57:50 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
     "criteria": {
       "requirement": "2025-05-29 03:47:39 +0000"
@@ -7883,12 +7898,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-29 06:14:13 +0000"
+    },
+    "done": true
+  },
   "vinery:main/grape_picker": {
     "criteria": {
       "vinery:savanna_grapes_white": "2025-05-29 01:10:06 +0000",
       "vinery:white_grape": "2025-05-29 01:10:06 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-29 06:14:13 +0000"
+    },
+    "done": true
   },
   "alexscaves:alexscaves/cave_map": {
     "criteria": {
@@ -7911,6 +7938,12 @@
   "alexscaves:alexscaves/licowitch_tower": {
     "criteria": {
       "licowitch_tower": "2025-05-29 04:23:26 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_the_ancient_guardian": {
+    "criteria": {
+      "guardian": "2025-05-29 06:12:06 +0000"
     },
     "done": true
   },
@@ -7962,6 +7995,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-05-29 06:03:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
     "criteria": {
       "has_ward_armor_trim_smithing_template": "2025-05-29 02:36:48 +0000"
@@ -7974,6 +8013,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-29 06:14:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-05-29 05:57:50 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oven": {
     "criteria": {
       "has_oven": "2025-05-29 04:26:12 +0000"
@@ -7983,6 +8034,12 @@
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_peony": "2025-05-29 04:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-29 06:14:13 +0000"
     },
     "done": true
   },
@@ -8089,6 +8146,12 @@
     },
     "done": true
   },
+  "legendary_monsters:defeat_posessed_paladin": {
+    "criteria": {
+      "ambusher": "2025-05-29 06:12:56 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
     "criteria": {
       "anger_wizard": "2025-05-29 04:00:01 +0000"
@@ -8113,6 +8176,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/kitchen_hood_pipe": {
+    "criteria": {
+      "has_kitchen_hood_pipe": "2025-05-29 06:13:38 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/pink_dye_from_peony": {
     "criteria": {
       "has_peony": "2025-05-29 04:38:43 +0000"
@@ -8122,6 +8191,12 @@
   "alexscaves:alexscaves/gelatin": {
     "criteria": {
       "gelatin": "2025-05-29 04:05:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-29 06:14:13 +0000"
     },
     "done": true
   },
@@ -8146,6 +8221,12 @@
   "alexscaves:alexscaves/gingerbread_town": {
     "criteria": {
       "gingerbread_town": "2025-05-29 04:04:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-05-29 06:14:13 +0000"
     },
     "done": true
   },

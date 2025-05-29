@@ -1187,3 +1187,128 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [29May2025 05:39:22.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Survival Mode]
 [29May2025 05:39:50.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Set own game mode to Spectator Mode]
 [29May2025 05:40:22.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Applied effect Night Vision to mererio48]
+[29May2025 05:40:34.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to mererio48]
+[29May2025 05:40:57.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to mererio48]
+[29May2025 05:41:16.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 was killed
+[29May2025 05:41:16.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Killed mererio48]
+[29May2025 05:41:28.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[29May2025 05:41:45.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Spectator Mode]
+[29May2025 05:41:50.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 was killed
+[29May2025 05:41:50.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Killed mererio48]
+[29May2025 05:41:51.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Survival Mode]
+[29May2025 05:41:58.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[29May2025 05:41:59.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Spectator Mode]
+[29May2025 05:42:04.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was killed
+[29May2025 05:42:04.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 was killed
+[29May2025 05:42:04.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Killed 2 entities]
+[29May2025 05:42:33.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[29May2025 05:42:42.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Survival Mode]
+[29May2025 05:43:22.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Spectator Mode]
+[29May2025 05:43:25.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Applied effect Night Vision to mererio48]
+[29May2025 05:43:43.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Survival Mode]
+[29May2025 05:44:00.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Spectator Mode]
+[29May2025 05:44:07.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Survival Mode]
+[29May2025 05:44:20.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Spectator Mode]
+[29May2025 05:44:29.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Set own game mode to Survival Mode]
+[29May2025 05:44:30.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Survival Mode]
+[29May2025 05:44:35.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Spectator Mode]
+[29May2025 05:44:39.601] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Set own game mode to Spectator Mode]
+[29May2025 05:44:50.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Survival Mode]
+[29May2025 05:44:59.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Set own game mode to Survival Mode]
+[29May2025 05:45:07.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Set own game mode to Spectator Mode]
+[29May2025 05:45:34.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Spectator Mode]
+[29May2025 05:45:35.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Set own game mode to Survival Mode]
+[29May2025 05:45:57.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Survival Mode]
+[29May2025 05:46:04.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Spectator Mode]
+[29May2025 05:46:11.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Set own game mode to Spectator Mode]
+[29May2025 05:46:23.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Survival Mode]
+[29May2025 05:46:26.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Alex's Caves]
+[29May2025 05:46:36.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Spectator Mode]
+[29May2025 05:46:46.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Set own game mode to Survival Mode]
+[29May2025 05:46:48.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Set own game mode to Spectator Mode]
+[29May2025 05:46:49.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Survival Mode]
+[29May2025 05:47:02.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Set own game mode to Survival Mode]
+[29May2025 05:47:12.900] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Set own game mode to Spectator Mode]
+[29May2025 05:47:25.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Spectator Mode]
+[29May2025 05:47:27.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Set own game mode to Survival Mode]
+[29May2025 05:47:41.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Survival Mode]
+[29May2025 05:47:49.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Set own game mode to Spectator Mode]
+[29May2025 05:48:11.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Spectator Mode]
+[29May2025 05:48:30.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Survival Mode]
+[29May2025 05:48:49.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Spectator Mode]
+[29May2025 05:49:04.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Survival Mode]
+[29May2025 05:49:28.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Spectator Mode]
+[29May2025 05:49:36.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to mererio48]
+[29May2025 05:49:39.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Survival Mode]
+[29May2025 05:49:49.537] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3199ms or 63 ticks
+[29May2025 05:50:22.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Spectator Mode]
+[29May2025 05:50:36.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Survival Mode]
+[29May2025 05:50:40.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Set own game mode to Survival Mode]
+[29May2025 05:50:50.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Spectator Mode]
+[29May2025 05:50:57.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Set own game mode to Spectator Mode]
+[29May2025 05:52:07.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Set own game mode to Survival Mode]
+[29May2025 05:52:20.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Set own game mode to Spectator Mode]
+[29May2025 05:52:33.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[29May2025 05:52:34.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Into Darkness]
+[29May2025 05:53:18.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to mererio48]
+[29May2025 05:53:40.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Survival Mode]
+[29May2025 05:54:18.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Spectator Mode]
+[29May2025 05:56:35.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Gave 1 [Eye of Ender] to Invel666]
+[29May2025 05:57:05.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Survival Mode]
+[29May2025 05:57:50.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Gave 16 [Eye of Ender] to Invel666]
+[29May2025 05:58:36.124] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alexscaves:forlorn_hollows took 8171 ms
+[29May2025 05:58:36.124] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 11082ms or 221 ticks
+[29May2025 05:58:36.124] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8145ms or 162 ticks behind
+[29May2025 05:58:43.553] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:village (minecraft:armorer) took 5 ms
+[29May2025 05:59:07.129] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:mansion took 102 ms
+[29May2025 05:59:18.419] [Worker-Main-54/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 05:59:18.419] [Worker-Main-54/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 05:59:23.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to 1584.500000, 109.000000, -815.500000]
+[29May2025 05:59:23.253] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 7356ms or 147 ticks
+[29May2025 05:59:23.254] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6074ms or 121 ticks behind
+[29May2025 05:59:23.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Invel666 moved too quickly! 0.0,-10.806526110008988,0.0
+[29May2025 05:59:33.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Gave 1 [Eye of Ender] to Invel666]
+[29May2025 05:59:41.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Spectator Mode]
+[29May2025 06:00:18.961] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #minecraft:ruined_portal (minecraft:ruined_portal) took 0 ms
+[29May2025 06:00:27.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to -959.500000, 27.130667, 3856.500000]
+[29May2025 06:00:35.384] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Invel666 moved too quickly! -10.29883890731503,0.0,-1.034794689770365
+[29May2025 06:00:52.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Creative Mode]
+[29May2025 06:00:56.226] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3091ms or 61 ticks
+[29May2025 06:02:05.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[29May2025 06:02:10.944] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mererio48 moved too quickly! -5.067967481804089,0.0,-9.601046680017362
+[29May2025 06:03:28.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Spectator Mode]
+[29May2025 06:03:34.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Eye Spy]
+[29May2025 06:03:43.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Eye Spy]
+[29May2025 06:04:20.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Creative Mode]
+[29May2025 06:10:41.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Set own game mode to Survival Mode]
+[29May2025 06:10:45.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Survival Mode]
+[29May2025 06:11:22.134] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3042ms or 60 ticks
+[29May2025 06:12:06.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has completed the challenge [The One - Armed Monster]
+[29May2025 06:12:56.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has completed the challenge [The Fallen Knight]
+[29May2025 06:13:26.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Creative Mode]
+[29May2025 06:15:33.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Set Invel666's game mode to Spectator Mode]
+[29May2025 06:15:42.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Creative Mode]
+[29May2025 06:16:31.754] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mererio48 lost connection: Disconnected
+[29May2025 06:16:31.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 left the game
+[29May2025 06:18:10.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Survival Mode]
+[29May2025 06:18:15.346] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Invel666 lost connection: Disconnected
+[29May2025 06:18:15.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 left the game
+[29May2025 06:18:27.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29May2025 06:18:27.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29May2025 06:18:27.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29May2025 06:18:27.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29May2025 06:18:27.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/graveyard:past
+[29May2025 06:18:27.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29May2025 06:18:27.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[29May2025 06:18:27.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29May2025 06:18:27.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29May2025 06:18:27.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[29May2025 06:18:27.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29May2025 06:18:27.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[29May2025 06:18:27.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29May2025 06:18:27.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29May2025 06:18:28.150] [Server thread/INFO] [Framework/]: Unloading server configs...
+[29May2025 06:18:28.157] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[29May2025 06:18:28.162] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[29May2025 06:18:28.162] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[29May2025 06:18:28.166] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
