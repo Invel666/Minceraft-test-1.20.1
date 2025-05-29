@@ -960,3 +960,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [29May2025 03:24:46.686] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3159ms or 63 ticks
 [29May2025 03:27:26.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was obliterated by a sonically-charged shriek
 [29May2025 03:27:58.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mererio48 moved too quickly! -352.9232414940884,136.5,-529.9343303345431
+[29May2025 03:28:34.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to ZhynoDamned]
+[29May2025 03:29:46.701] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3021ms or 60 ticks
+[29May2025 03:30:33.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was obliterated by a sonically-charged shriek
+[29May2025 03:30:43.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 was obliterated by a sonically-charged shriek
+[29May2025 03:30:52.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 was slain by Warden
+[29May2025 03:30:57.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to ZhynoDamned]
+[29May2025 03:32:40.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Spooky Scary Skeleton]
+[29May2025 03:35:39.481] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3234ms or 64 ticks
+[29May2025 03:35:41.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mererio48 moved too quickly! -354.6432409627032,138.0,-513.5159786432795
+[29May2025 03:36:19.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Gave 1 [Nether Star] to Invel666]
+[29May2025 03:37:07.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to ZhynoDamned]
+[29May2025 03:37:16.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to mererio48]
+[29May2025 03:37:36.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to Invel666]
