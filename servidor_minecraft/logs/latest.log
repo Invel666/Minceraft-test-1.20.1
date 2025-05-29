@@ -1057,3 +1057,38 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [29May2025 04:08:42.655] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3118ms or 62 ticks
 [29May2025 04:08:54.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Hooked on a Feeling]
 [29May2025 04:09:15.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to mererio48]
+[29May2025 04:10:00.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Where's Goopy?]
+[29May2025 04:10:36.710] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned lost connection: Timed out
+[29May2025 04:10:36.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned left the game
+[29May2025 04:10:37.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [The Dark (Chocolate) Tower]
+[29May2025 04:11:08.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Spear Mint]
+[29May2025 04:11:22.266] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZhynoDamned[/127.185.168.15:33679] logged in with entity id 97707 at (5744.805962606826, -48.0, -2291.873595543315)
+[29May2025 04:11:22.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned joined the game
+[29May2025 04:11:43.617] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3149ms or 62 ticks
+[29May2025 04:12:00.490] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3063ms or 61 ticks
+[29May2025 04:12:22.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned lost connection: Timed out
+[29May2025 04:12:22.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned left the game
+[29May2025 04:12:23.031] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3017ms or 60 ticks
+[29May2025 04:12:38.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Unwrapped Candy]
+[29May2025 04:13:14.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mererio48 moved too quickly! 6.6124352023871324,0.9481145771449118,-7.7241538753442
+[29May2025 04:13:20.492] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZhynoDamned[/127.185.168.15:43129] logged in with entity id 98546 at (5755.239706487682, -48.0, -2284.408820808303)
+[29May2025 04:13:20.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned joined the game
+[29May2025 04:13:21.221] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3208ms or 64 ticks
+[29May2025 04:13:29.273] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned lost connection: Disconnected
+[29May2025 04:13:29.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned left the game
+[29May2025 04:13:42.441] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3361ms or 67 ticks
+[29May2025 04:14:03.409] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZhynoDamned[/127.185.168.15:35067] logged in with entity id 99058 at (5755.239706487682, -48.0, -2284.408820808303)
+[29May2025 04:14:03.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned joined the game
+[29May2025 04:14:05.385] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3087ms or 61 ticks
+[29May2025 04:14:24.435] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3036ms or 60 ticks
+[29May2025 04:14:33.496] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned lost connection: Timed out
+[29May2025 04:14:33.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned left the game
+[29May2025 04:14:50.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [The (Cinnamon) Spice Must Flow]
+[29May2025 04:15:29.230] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3070ms or 61 ticks
+[29May2025 04:15:44.597] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZhynoDamned[/127.224.195.249:57347] logged in with entity id 100096 at (5755.239706487682, -48.0, -2284.408820808303)
+[29May2025 04:15:44.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned joined the game
+[29May2025 04:16:03.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported mererio48 to Invel666]
+[29May2025 04:16:14.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [I Found the Coin Slot]
+[29May2025 04:16:41.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has reached the goal [And I'm All Out of Gum]
+[29May2025 04:18:14.832] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3001ms or 60 ticks
+[29May2025 04:19:38.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [The Secret Ingredient]

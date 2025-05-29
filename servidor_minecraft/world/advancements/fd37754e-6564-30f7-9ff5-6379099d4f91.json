@@ -7828,6 +7828,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/enter_purple_soda": {
+    "criteria": {
+      "in_purple_soda": "2025-05-29 04:05:44 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_caniac": {
     "criteria": {
       "killed": "2025-05-29 04:03:45 +0000"
@@ -7883,6 +7889,18 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/caramel": {
+    "criteria": {
+      "mussel": "2025-05-29 04:12:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gummy_rings": {
+    "criteria": {
+      "blue": "2025-05-29 04:10:43 +0000"
+    },
+    "done": false
+  },
   "cataclysm:find_sunken_city": {
     "criteria": {
       "factory": "2025-05-29 03:56:52 +0000"
@@ -7926,9 +7944,27 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/gingerbread_crumbs": {
+    "criteria": {
+      "crumbs": "2025-05-29 04:06:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_gumbeeper": {
+    "criteria": {
+      "killed": "2025-05-29 04:05:43 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
     "criteria": {
       "anger_wizard": "2025-05-29 04:00:01 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gelatin": {
+    "criteria": {
+      "gelatin": "2025-05-29 04:05:23 +0000"
     },
     "done": true
   },
