@@ -810,3 +810,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [29May2025 01:34:39.660] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned lost connection: Timed out
 [29May2025 01:34:39.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned left the game
 [29May2025 01:34:39.704] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29May2025 01:37:25.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to mererio48]
+[29May2025 01:37:51.061] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZhynoDamned[/127.224.195.249:44459] logged in with entity id 23872 at (3407.6204008691507, -39.0, 151.62867711111275)
+[29May2025 01:37:51.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned joined the game
+[29May2025 01:38:19.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has completed the challenge [It Spreads]
+[29May2025 01:42:07.380] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3008ms or 60 ticks
+[29May2025 01:46:34.502] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 4160ms or 83 ticks
+[29May2025 01:46:34.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2873ms or 57 ticks behind
