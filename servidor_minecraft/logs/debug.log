@@ -7515,3 +7515,43 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [29May2025 03:59:01.676] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [29May2025 03:59:01.676] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [29May2025 03:59:01.677] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 03:59:49.605] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 03:59:49.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 03:59:50.259] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3118ms or 62 ticks
+[29May2025 04:00:01.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [A Fool's Folly]
+[29May2025 04:00:21.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[29May2025 04:01:44.603] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 5670 -2310 -2310 VisualFallingBlockEntity['Falling Stone'/93671, l='ServerLevel[world]', x=5670.50, y=66.00, z=-2309.50]
+[29May2025 04:01:46.646] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 5677 -2306 -2306 VisualFallingBlockEntity['Falling Stone'/93738, l='ServerLevel[world]', x=5677.50, y=58.00, z=-2305.50]
+[29May2025 04:01:46.649] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 5675 -2312 -2312 VisualFallingBlockEntity['Falling Stone'/93739, l='ServerLevel[world]', x=5675.50, y=59.00, z=-2311.50]
+[29May2025 04:01:46.658] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 5671 -2311 -2311 VisualFallingBlockEntity['Falling Stone'/93740, l='ServerLevel[world]', x=5671.50, y=59.00, z=-2310.50]
+[29May2025 04:02:00.423] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: spectral hammer falling block Block{minecraft:stone} 5686 -2310 -2310 VisualFallingBlockEntity['Falling Stone'/93902, l='ServerLevel[world]', x=5686.50, y=51.00, z=-2309.50]
+[29May2025 04:02:09.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has reached the goal [Pure Imagination]
+[29May2025 04:02:13.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has reached the goal [Pure Imagination]
+[29May2025 04:02:32.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[29May2025 04:02:48.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to mererio48]
+[29May2025 04:02:48.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has reached the goal [Pure Imagination]
+[29May2025 04:02:59.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Spectator Mode]
+[29May2025 04:03:13.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Survival Mode]
+[29May2025 04:03:37.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Yellow Brick Road]
+[29May2025 04:03:40.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Yellow Brick Road]
+[29May2025 04:03:41.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Yellow Brick Road]
+[29May2025 04:03:45.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Caniac No More]
+[29May2025 04:03:54.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Oh Little Town of Gingerbread]
+[29May2025 04:04:13.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Oh Little Town of Gingerbread]
+[29May2025 04:04:25.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Oh Little Town of Gingerbread]
+[29May2025 04:04:49.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29May2025 04:04:49.481] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29May2025 04:04:54.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [You're a Monster]
+[29May2025 04:05:23.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Where's Goopy?]
+[29May2025 04:05:43.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [I Found the Coin Slot]
+[29May2025 04:05:44.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Carbonated Swim]
+[29May2025 04:06:11.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Carbonated Swim]
+[29May2025 04:06:27.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [You're a Monster]
+[29May2025 04:06:59.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [You're a Monster]
+[29May2025 04:07:04.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Carbonated Swim]
+[29May2025 04:07:11.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Caniac No More]
+[29May2025 04:07:16.850] [Server thread/DEBUG] [io.redspace.ironsspellbooks.IronsSpellbooks/]: ClientboundSyncTargetingData.toBytes: irons_spellbooks:healing_circle 1: [ad2bdaee-6344-4e72-8dee-5f1c20960dfe]
+[29May2025 04:08:15.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [I Found the Coin Slot]
+[29May2025 04:08:42.655] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3118ms or 62 ticks
+[29May2025 04:08:54.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Hooked on a Feeling]
+[29May2025 04:09:15.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to mererio48]

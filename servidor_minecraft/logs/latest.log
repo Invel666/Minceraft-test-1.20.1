@@ -1027,3 +1027,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [29May2025 03:59:01.676] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [29May2025 03:59:01.676] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [29May2025 03:59:01.677] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[29May2025 03:59:50.259] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3118ms or 62 ticks
+[29May2025 04:00:01.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [A Fool's Folly]
+[29May2025 04:00:21.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[29May2025 04:02:09.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has reached the goal [Pure Imagination]
+[29May2025 04:02:13.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has reached the goal [Pure Imagination]
+[29May2025 04:02:32.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[29May2025 04:02:48.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to mererio48]
+[29May2025 04:02:48.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has reached the goal [Pure Imagination]
+[29May2025 04:02:59.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Spectator Mode]
+[29May2025 04:03:13.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Survival Mode]
+[29May2025 04:03:37.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Yellow Brick Road]
+[29May2025 04:03:40.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Yellow Brick Road]
+[29May2025 04:03:41.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Yellow Brick Road]
+[29May2025 04:03:45.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Caniac No More]
+[29May2025 04:03:54.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Oh Little Town of Gingerbread]
+[29May2025 04:04:13.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Oh Little Town of Gingerbread]
+[29May2025 04:04:25.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Oh Little Town of Gingerbread]
+[29May2025 04:04:54.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [You're a Monster]
+[29May2025 04:05:23.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Where's Goopy?]
+[29May2025 04:05:43.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [I Found the Coin Slot]
+[29May2025 04:05:44.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Carbonated Swim]
+[29May2025 04:06:11.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Carbonated Swim]
+[29May2025 04:06:27.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [You're a Monster]
+[29May2025 04:06:59.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [You're a Monster]
+[29May2025 04:07:04.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Carbonated Swim]
+[29May2025 04:07:11.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Caniac No More]
+[29May2025 04:08:15.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [I Found the Coin Slot]
+[29May2025 04:08:42.655] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3118ms or 62 ticks
+[29May2025 04:08:54.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned has made the advancement [Hooked on a Feeling]
+[29May2025 04:09:15.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to mererio48]

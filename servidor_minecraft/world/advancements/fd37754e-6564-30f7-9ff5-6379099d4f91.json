@@ -87,16 +87,19 @@
       "moor": "2025-05-27 04:17:10 +0000",
       "mediterranean_forest": "2025-05-26 00:04:24 +0000",
       "coniferous_forest": "2025-05-26 02:34:10 +0000",
+      "spider_nest": "2025-05-29 04:01:48 +0000",
       "dryland": "2025-05-25 23:24:39 +0000",
       "wasteland": "2025-05-25 22:40:07 +0000",
       "visceral_heap": "2025-05-28 01:53:02 +0000",
+      "auroral_garden": "2025-05-29 03:58:04 +0000",
       "rocky_rainforest": "2025-05-27 03:59:50 +0000",
       "lavender_field": "2025-05-26 00:25:19 +0000",
       "fir_clearing": "2025-05-26 02:50:01 +0000",
       "grassland": "2025-05-27 03:59:25 +0000",
       "tundra": "2025-05-26 02:17:30 +0000",
       "glowing_grotto": "2025-05-25 21:09:11 +0000",
-      "undergrowth": "2025-05-26 23:24:30 +0000"
+      "undergrowth": "2025-05-26 23:24:30 +0000",
+      "snowy_maple_woods": "2025-05-29 03:58:11 +0000"
     },
     "done": false
   },
@@ -145,9 +148,11 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-26 22:52:34 +0000",
+      "minecraft:deep_ocean": "2025-05-29 03:54:47 +0000",
       "minecraft:eroded_badlands": "2025-05-25 23:26:57 +0000",
       "minecraft:frozen_river": "2025-05-26 02:33:18 +0000",
       "minecraft:cherry_grove": "2025-05-29 01:22:48 +0000",
+      "minecraft:birch_forest": "2025-05-29 03:55:16 +0000",
       "minecraft:wooded_badlands": "2025-05-25 20:34:39 +0000",
       "minecraft:badlands": "2025-05-25 23:26:20 +0000",
       "minecraft:savanna_plateau": "2025-05-25 23:28:03 +0000",
@@ -158,14 +163,19 @@
       "minecraft:stony_shore": "2025-05-25 21:58:38 +0000",
       "minecraft:snowy_plains": "2025-05-25 23:58:03 +0000",
       "minecraft:dripstone_caves": "2025-05-27 22:17:30 +0000",
+      "minecraft:cold_ocean": "2025-05-29 03:56:12 +0000",
       "minecraft:forest": "2025-05-26 02:50:59 +0000",
       "minecraft:lush_caves": "2025-05-25 21:11:55 +0000",
+      "minecraft:deep_cold_ocean": "2025-05-29 03:56:18 +0000",
       "minecraft:frozen_ocean": "2025-05-26 02:33:59 +0000",
       "minecraft:desert": "2025-05-25 20:34:42 +0000",
+      "minecraft:deep_frozen_ocean": "2025-05-29 03:56:30 +0000",
+      "minecraft:windswept_forest": "2025-05-29 03:58:13 +0000",
       "minecraft:ocean": "2025-05-27 04:35:52 +0000",
       "minecraft:snowy_beach": "2025-05-26 02:33:14 +0000",
       "minecraft:warm_ocean": "2025-05-25 20:39:45 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-27 04:38:58 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-29 03:55:24 +0000",
       "minecraft:deep_dark": "2025-05-26 01:07:38 +0000",
       "minecraft:meadow": "2025-05-29 01:14:31 +0000",
       "minecraft:savanna": "2025-05-25 23:28:17 +0000",
@@ -7812,9 +7822,27 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_candy_cavity": {
+    "criteria": {
+      "discover": "2025-05-29 04:02:09 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_caniac": {
+    "criteria": {
+      "killed": "2025-05-29 04:03:45 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
     "criteria": {
       "requirement": "2025-05-29 03:47:39 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:locate_ancient_stronghold": {
+    "criteria": {
+      "ancient_stronghold": "2025-05-29 03:55:28 +0000"
     },
     "done": true
   },
@@ -7837,6 +7865,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/walk_on_rock_candy": {
+    "criteria": {
+      "cave_book": "2025-05-29 04:03:41 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/make_wayward_compass": {
     "criteria": {
       "inscription_table": "2025-05-29 03:53:17 +0000"
@@ -7849,9 +7883,21 @@
     },
     "done": true
   },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-05-29 03:56:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
     "criteria": {
       "has_ward_armor_trim_smithing_template": "2025-05-29 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-05-29 03:56:30 +0000"
     },
     "done": true
   },
@@ -7880,9 +7926,21 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
+    "criteria": {
+      "anger_wizard": "2025-05-29 04:00:01 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2025-05-29 01:07:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/gingerbread_town": {
+    "criteria": {
+      "gingerbread_town": "2025-05-29 04:04:25 +0000"
     },
     "done": true
   },
