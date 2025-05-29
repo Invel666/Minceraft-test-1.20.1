@@ -1418,17 +1418,21 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2025-05-26 23:55:07 +0000",
+      "minecraft:pillager": "2025-05-29 01:20:52 +0000",
       "minecraft:skeleton": "2025-05-26 22:43:37 +0000",
       "minecraft:ghast": "2025-05-26 23:31:58 +0000",
       "minecraft:hoglin": "2025-05-26 23:17:56 +0000",
       "minecraft:spider": "2025-05-26 01:00:57 +0000",
       "minecraft:piglin_brute": "2025-05-26 23:11:12 +0000",
       "minecraft:creeper": "2025-05-26 22:43:20 +0000",
+      "minecraft:phantom": "2025-05-29 01:13:23 +0000",
       "minecraft:zombified_piglin": "2025-05-26 23:55:19 +0000",
       "minecraft:witch": "2025-05-27 22:34:40 +0000",
       "minecraft:piglin": "2025-05-26 23:09:57 +0000",
       "minecraft:enderman": "2025-05-28 01:02:41 +0000",
-      "minecraft:zombie": "2025-05-26 00:03:52 +0000"
+      "minecraft:zombie": "2025-05-26 00:03:52 +0000",
+      "minecraft:drowned": "2025-05-29 01:32:19 +0000",
+      "minecraft:zombie_villager": "2025-05-29 01:11:34 +0000"
     },
     "done": false
   },
@@ -7718,6 +7722,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:sheep": "2025-05-28 01:01:16 +0000",
+      "minecraft:cow": "2025-05-29 01:26:35 +0000",
       "minecraft:chicken": "2025-05-28 01:07:38 +0000"
     },
     "done": false
@@ -8091,6 +8096,36 @@
   "handcrafted:recipes/misc/calcite_corner_trim": {
     "criteria": {
       "has_calcite_corner_trim": "2025-05-28 03:52:46 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-05-29 01:00:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-05-29 01:33:32 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-05-29 01:06:19 +0000"
+    },
+    "done": true
+  },
+  "legendary_monsters:defeat_cloud_golem": {
+    "criteria": {
+      "cloud_golem": "2025-05-29 01:23:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-05-29 01:33:32 +0000"
     },
     "done": true
   },

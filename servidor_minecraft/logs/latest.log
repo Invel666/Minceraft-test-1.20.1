@@ -745,3 +745,68 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [29May2025 00:57:38.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 joined the game
 [29May2025 00:57:39.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Survival Mode]
 [29May2025 01:00:52.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Masquerade]
+[29May2025 01:04:40.930] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3456ms or 69 ticks
+[29May2025 01:06:19.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Once Upon a Cave]
+[29May2025 01:07:59.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Once Upon a Cave]
+[29May2025 01:12:43.823] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3125ms or 62 ticks
+[29May2025 01:13:24.375] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/8413, l='ServerLevel[world]', x=-505.70, y=120.00, z=4097.41] died, message: 'Villager was slain by Zombie'
+[29May2025 01:13:54.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to mererio48]
+[29May2025 01:16:24.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 was Crushed to death by Cumulonimbus
+[29May2025 01:16:27.555] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3668ms or 73 ticks
+[29May2025 01:16:42.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 was slain by Cumulonimbus
+[29May2025 01:16:59.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 was slain by Cumulonimbus
+[29May2025 01:17:01.133] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3025ms or 60 ticks
+[29May2025 01:18:44.294] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3056ms or 61 ticks
+[29May2025 01:19:01.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 fell from a high place
+[29May2025 01:22:04.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[29May2025 01:23:07.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has completed the challenge [Against The Gods]
+[29May2025 01:23:37.424] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZhynoDamned[/127.185.168.15:48779] logged in with entity id 16691 at (3355.8250723723154, 111.0, 28.825185776185062)
+[29May2025 01:23:37.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned joined the game
+[29May2025 01:24:02.531] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3042ms or 60 ticks
+[29May2025 01:24:48.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZhynoDamned> que onda :D
+[29May2025 01:24:52.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <mererio48> discord
+[29May2025 01:25:09.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to Invel666]
+[29May2025 01:25:23.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Invel666> mate a uno practicamente solo
+[29May2025 01:25:33.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZhynoDamned> cjns :v
+[29May2025 01:26:18.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to mererio48]
+[29May2025 01:26:28.314] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3074ms or 61 ticks
+[29May2025 01:27:14.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to Invel666]
+[29May2025 01:27:29.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Invel666> saquese
+[29May2025 01:27:40.304] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mererio48 moved too quickly! 26.74903748872839,9.0,0.699999988079071
+[29May2025 01:29:36.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mererio48 moved too quickly! 1.2769470145576634,0.41435678932249687,-9.920812302603448
+[29May2025 01:29:36.592] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 5774ms or 115 ticks
+[29May2025 01:29:36.592] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3263ms or 65 ticks behind
+[29May2025 01:29:38.125] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=3180, y=-28, z=-304}
+[29May2025 01:29:39.254] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=3183, y=-28, z=-307}
+[29May2025 01:29:39.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mererio48 moved too quickly! 0.8902696287250365,0.0,-10.144829471598705
+[29May2025 01:30:08.367] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3358, y=63, z=-101} BlockPos{x=3358, y=62, z=-101}
+[29May2025 01:30:11.156] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3358, y=61, z=-103} BlockPos{x=3358, y=61, z=-102}
+[29May2025 01:30:17.152] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3358, y=62, z=-109} BlockPos{x=3358, y=61, z=-109}
+[29May2025 01:30:17.203] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3358, y=62, z=-109} BlockPos{x=3358, y=61, z=-109}
+[29May2025 01:30:17.254] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3357, y=61, z=-106} BlockPos{x=3358, y=61, z=-109}
+[29May2025 01:30:26.406] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3359, y=62, z=-99} BlockPos{x=3359, y=60, z=-100}
+[29May2025 01:30:28.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3358, y=62, z=-97} BlockPos{x=3359, y=60, z=-97}
+[29May2025 01:30:30.159] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3357, y=59, z=-98} BlockPos{x=3356, y=61, z=-97}
+[29May2025 01:31:00.970] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3082, y=73, z=-9} BlockPos{x=3083, y=73, z=-9}
+[29May2025 01:31:31.359] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3084, y=64, z=-45} BlockPos{x=3083, y=62, z=-43}
+[29May2025 01:31:34.730] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3086, y=63, z=-54} BlockPos{x=3084, y=62, z=-54}
+[29May2025 01:31:41.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[29May2025 01:31:51.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3086, y=67, z=-41} BlockPos{x=3085, y=66, z=-40}
+[29May2025 01:32:13.376] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3102, y=69, z=-49} BlockPos{x=3101, y=68, z=-48}
+[29May2025 01:32:13.558] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3103, y=68, z=-50} BlockPos{x=3102, y=68, z=-50}
+[29May2025 01:32:14.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3098, y=69, z=-54} BlockPos{x=3098, y=68, z=-51}
+[29May2025 01:32:14.361] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3101, y=69, z=-55} BlockPos{x=3101, y=68, z=-53}
+[29May2025 01:32:14.414] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3101, y=69, z=-55} BlockPos{x=3101, y=68, z=-53}
+[29May2025 01:32:14.463] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3101, y=69, z=-55} BlockPos{x=3101, y=68, z=-53}
+[29May2025 01:32:14.510] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3101, y=69, z=-55} BlockPos{x=3101, y=68, z=-53}
+[29May2025 01:32:15.157] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3099, y=68, z=-52} BlockPos{x=3099, y=67, z=-52}
+[29May2025 01:32:15.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3098, y=68, z=-52} BlockPos{x=3099, y=68, z=-53}
+[29May2025 01:32:25.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3111, y=69, z=-68} BlockPos{x=3110, y=70, z=-63}
+[29May2025 01:32:49.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[29May2025 01:34:09.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZhynoDamned> encontre warden biome
+[29May2025 01:34:14.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZhynoDamned> :v
+[29May2025 01:34:22.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Invel666> onde?
+[29May2025 01:34:29.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Invel666> metete a el discord perra
+[29May2025 01:34:39.660] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZhynoDamned lost connection: Timed out
+[29May2025 01:34:39.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned left the game
+[29May2025 01:34:39.704] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
