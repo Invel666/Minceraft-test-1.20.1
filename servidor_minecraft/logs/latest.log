@@ -817,3 +817,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [29May2025 01:42:07.380] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3008ms or 60 ticks
 [29May2025 01:46:34.502] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 4160ms or 83 ticks
 [29May2025 01:46:34.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2873ms or 57 ticks behind
+[29May2025 01:48:43.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported ZhynoDamned to Invel666]
+[29May2025 01:48:44.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported ZhynoDamned to mererio48]
+[29May2025 01:48:50.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to mererio48]
+[29May2025 01:49:04.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to mererio48]
+[29May2025 01:50:27.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[29May2025 01:52:20.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported ZhynoDamned to Invel666]
+[29May2025 01:53:44.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [No Longer Short-Staffed]
+[29May2025 01:58:36.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to ZhynoDamned]
+[29May2025 02:00:04.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to ZhynoDamned]
+[29May2025 02:00:43.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to ZhynoDamned]
+[29May2025 02:01:00.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to ZhynoDamned]
+[29May2025 02:01:23.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to ZhynoDamned]
+[29May2025 02:01:32.557] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3444, y=-52, z=449} BlockPos{x=3443, y=-53, z=449}
+[29May2025 02:02:49.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported ZhynoDamned to mererio48]
+[29May2025 02:02:52.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[29May2025 02:02:56.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported ZhynoDamned to mererio48]
+[29May2025 02:05:37.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZhynoDamned was obliterated by a sonically-charged shriek
+[29May2025 02:05:44.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZhynoDamned: Teleported ZhynoDamned to mererio48]
+[29May2025 02:05:49.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 was slain by Warden
+[29May2025 02:06:00.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[29May2025 02:06:20.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to ZhynoDamned]
