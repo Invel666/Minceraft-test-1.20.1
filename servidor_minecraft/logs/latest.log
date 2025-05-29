@@ -1148,3 +1148,42 @@ com.google.gson.JsonSyntaxException: Unknown item 'tofucraft:tofuishi'
 [29May2025 04:38:48.152] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3489, y=107, z=51} BlockPos{x=3488, y=106, z=50}
 [29May2025 04:38:48.201] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3489, y=107, z=51} BlockPos{x=3488, y=106, z=50}
 [29May2025 04:38:53.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to mererio48]
+[29May2025 04:40:38.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Spear Mint]
+[29May2025 04:41:59.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mererio48 lost connection: Disconnected
+[29May2025 04:41:59.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 left the game
+[29May2025 04:42:42.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Gave 1 [Scarf of Invisibility] to Invel666]
+[29May2025 04:43:24.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Creative Mode]
+[29May2025 04:45:54.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Blinded by the lights]
+[29May2025 04:49:06.550] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagergolemhealerEntity['Golem Healer'/115611, l='ServerLevel[world]', x=3288.70, y=94.00, z=10.79] died, message: 'Golem Healer was slain by Zombie'
+[29May2025 04:49:06.550] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagergolemhealerEntity['Golem Healer'/115611, l='ServerLevel[world]', x=3288.70, y=94.00, z=10.79] died: Golem Healer was slain by Zombie
+[29May2025 04:49:28.291] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillager['Golem Healer'/119480, l='ServerLevel[world]', x=3300.32, y=93.72, z=-7.74] died: Golem Healer tried to swim in lava to escape Iron Golem
+[29May2025 04:57:13.351] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6c1403e3[id=<null>,name=mererio48,properties={},legacy=false] (/127.158.200.124:48337) lost connection: Disconnected
+[29May2025 04:57:23.117] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mererio48[/127.158.200.124:39401] logged in with entity id 126343 at (3370.1197675354315, 112.0, 54.121419950926104)
+[29May2025 04:57:23.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 joined the game
+[29May2025 05:04:49.542] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3204ms or 64 ticks
+[29May2025 05:06:16.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has reached the goal [And so a Quest Begins!]
+[29May2025 05:06:31.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown game mode: invel6666
+[29May2025 05:06:31.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... invel6666 survival<--[HERE]
+[29May2025 05:06:40.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set Invel666's game mode to Survival Mode
+[29May2025 05:07:03.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Gave 30 experience levels to mererio48]
+[29May2025 05:08:11.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Gave 17 experience levels to Invel666]
+[29May2025 05:09:17.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[29May2025 05:10:15.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[29May2025 05:12:56.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Invel666 has made the advancement [Dungeon Delving]
+[29May2025 05:13:03.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mererio48 has made the advancement [Dungeon Delving]
+[29May2025 05:22:16.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[29May2025 05:22:38.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mererio48 moved too quickly! -227.94317804445427,131.0,-1294.0539987991558
+[29May2025 05:23:15.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[29May2025 05:24:01.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[29May2025 05:33:48.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[29May2025 05:33:59.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Spectator Mode]
+[29May2025 05:34:49.543] [Server thread/WARN] [waterframes/]: Server seems overloading, jumping 3084ms or 61 ticks
+[29May2025 05:35:22.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to mererio48]
+[29May2025 05:36:21.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mererio48 moved too quickly! -211.6981516132896,174.0,-1256.5744875469356
+[29May2025 05:36:28.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[29May2025 05:37:17.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[29May2025 05:38:51.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Teleported mererio48 to Invel666]
+[29May2025 05:39:16.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Teleported Invel666 to Invel666]
+[29May2025 05:39:22.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Invel666: Set own game mode to Survival Mode]
+[29May2025 05:39:50.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Set own game mode to Spectator Mode]
+[29May2025 05:40:22.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [mererio48: Applied effect Night Vision to mererio48]

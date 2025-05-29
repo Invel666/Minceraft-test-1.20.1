@@ -81,8 +81,10 @@
       "erupting_inferno": "2025-05-27 00:26:44 +0000",
       "lush_savanna": "2025-05-25 20:33:39 +0000",
       "jade_cliffs": "2025-05-26 00:21:16 +0000",
+      "clover_patch": "2025-05-29 05:10:10 +0000",
       "old_growth_woodland": "2025-05-26 01:42:47 +0000",
       "crystalline_chasm": "2025-05-26 23:47:00 +0000",
+      "orchard": "2025-05-29 05:09:59 +0000",
       "lavender_forest": "2025-05-26 00:25:56 +0000",
       "moor": "2025-05-27 04:17:10 +0000",
       "mediterranean_forest": "2025-05-26 00:04:24 +0000",
@@ -90,6 +92,7 @@
       "spider_nest": "2025-05-29 04:01:48 +0000",
       "dryland": "2025-05-25 23:24:39 +0000",
       "wasteland": "2025-05-25 22:40:07 +0000",
+      "redwood_forest": "2025-05-29 05:09:55 +0000",
       "visceral_heap": "2025-05-28 01:53:02 +0000",
       "auroral_garden": "2025-05-29 03:58:04 +0000",
       "rocky_rainforest": "2025-05-27 03:59:50 +0000",
@@ -99,6 +102,7 @@
       "tundra": "2025-05-26 02:17:30 +0000",
       "glowing_grotto": "2025-05-25 21:09:11 +0000",
       "undergrowth": "2025-05-26 23:24:30 +0000",
+      "crag": "2025-05-29 05:10:14 +0000",
       "snowy_maple_woods": "2025-05-29 03:58:11 +0000"
     },
     "done": false
@@ -157,12 +161,14 @@
       "minecraft:badlands": "2025-05-25 23:26:20 +0000",
       "minecraft:savanna_plateau": "2025-05-25 23:28:03 +0000",
       "minecraft:stony_peaks": "2025-05-25 23:27:25 +0000",
+      "minecraft:dark_forest": "2025-05-29 05:10:09 +0000",
       "minecraft:sparse_jungle": "2025-05-26 01:41:24 +0000",
       "minecraft:river": "2025-05-25 21:58:05 +0000",
       "minecraft:lukewarm_ocean": "2025-05-29 03:54:09 +0000",
       "minecraft:stony_shore": "2025-05-25 21:58:38 +0000",
       "minecraft:snowy_plains": "2025-05-25 23:58:03 +0000",
       "minecraft:dripstone_caves": "2025-05-27 22:17:30 +0000",
+      "minecraft:grove": "2025-05-29 05:10:07 +0000",
       "minecraft:cold_ocean": "2025-05-29 03:56:12 +0000",
       "minecraft:forest": "2025-05-26 02:50:59 +0000",
       "minecraft:lush_caves": "2025-05-25 21:11:55 +0000",
@@ -175,6 +181,7 @@
       "minecraft:snowy_beach": "2025-05-26 02:33:14 +0000",
       "minecraft:warm_ocean": "2025-05-25 20:39:45 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-27 04:38:58 +0000",
+      "minecraft:frozen_peaks": "2025-05-29 05:10:06 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-29 03:55:24 +0000",
       "minecraft:deep_dark": "2025-05-26 01:07:38 +0000",
       "minecraft:meadow": "2025-05-29 01:14:31 +0000",
@@ -7834,6 +7841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-29 04:40:06 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/defeat_gum_worm": {
     "criteria": {
       "killed": "2025-05-29 04:14:50 +0000"
@@ -7849,6 +7862,12 @@
   "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
     "criteria": {
       "requirement": "2025-05-29 03:47:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-05-29 05:15:01 +0000"
     },
     "done": true
   },
@@ -7883,9 +7902,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-29 05:31:41 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/licowitch_tower": {
     "criteria": {
       "licowitch_tower": "2025-05-29 04:23:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-05-29 04:40:06 +0000"
     },
     "done": true
   },
@@ -7919,6 +7950,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-29 05:31:41 +0000"
+    },
+    "done": true
+  },
   "cataclysm:find_sunken_city": {
     "criteria": {
       "factory": "2025-05-29 03:56:52 +0000"
@@ -7928,6 +7965,12 @@
   "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
     "criteria": {
       "has_ward_armor_trim_smithing_template": "2025-05-29 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/flower_box": {
+    "criteria": {
+      "has_podzol": "2025-05-29 04:44:43 +0000"
     },
     "done": true
   },
@@ -7943,9 +7986,33 @@
     },
     "done": true
   },
+  "beautify:progression/blinds": {
+    "criteria": {
+      "obtain": "2025-05-29 04:45:54 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
+    "criteria": {
+      "in_catacombs": "2025-05-29 05:12:56 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/cake_stand": {
     "criteria": {
       "has_brick": "2025-05-29 04:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-05-29 04:40:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/frostmint_spear": {
+    "criteria": {
+      "deep_sea_sushi_roll": "2025-05-29 04:40:38 +0000"
     },
     "done": true
   },
@@ -8040,6 +8107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-29 05:31:41 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/pink_dye_from_peony": {
     "criteria": {
       "has_peony": "2025-05-29 04:38:43 +0000"
@@ -8055,6 +8128,12 @@
   "alexscaves:alexscaves/cave_book": {
     "criteria": {
       "cave_book": "2025-05-29 01:07:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-29 05:31:41 +0000"
     },
     "done": true
   },
